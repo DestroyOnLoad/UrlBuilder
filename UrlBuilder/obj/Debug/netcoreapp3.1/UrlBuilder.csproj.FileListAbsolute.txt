@@ -1,0 +1,13 @@
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.exe
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.deps.json
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.runtimeconfig.json
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.runtimeconfig.dev.json
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.dll
+D:\Repos\UrlBuilder\UrlBuilder\bin\Debug\netcoreapp3.1\UrlBuilder.pdb
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.csprojAssemblyReference.cache
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.AssemblyInfoInputs.cache
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.AssemblyInfo.cs
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.csproj.CoreCompileInputs.cache
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.dll
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.pdb
+D:\Repos\UrlBuilder\UrlBuilder\obj\Debug\netcoreapp3.1\UrlBuilder.genruntimeconfig.cache
